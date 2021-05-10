@@ -9,6 +9,44 @@
 
 
 
+
+
+<h1 align = 'center'> Harry Potter Sorting Hat Quiz </h1> 
+
+<p align=center> <a href="#"><img width=330px src = "https://content.codecademy.com/courses/learn-cpp/conditionals-and-logic/harrypotter.gif"/> </a> </p>
+
+#### Project Goals
+
+>“A thousand years or more ago, <br>
+>When I was newly sewn, <br>
+>There lived four wizards of renown, <br>
+>Whose names are still well known.” <br>
+
+The [Hogwarts School of Witchcraft and Wizardry](https://en.wikipedia.org/wiki/Hogwarts) welcomes everyone! First-year students must go through the annual Sorting Ceremony. The Sorting Hat is a talking hat at Hogwarts that magically determines which of the four school Houses each new student belongs most to:
+
+```
+gryffindor
+hufflepuff
+ravenclaw
+slytherin
+```
+
+Here I have written a ``sortinghat.cpp`` program that asks the user some questions and places them into one of the four Houses based on their answers!
+
+<p align=center> <a href="#"><img width=330px src = "https://i.imgur.com/FED33TI.gif"/> </a> </p>
+
+
+👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | cpp" width="66px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>](https://github.com/Emon-ProCoder7/Cpp/blob/main/sortinghat.cpp)
+
+<br><br>
+
+
+
+
+
+
+
+
 <h1 align = 'center'> Leap Year Calculator </h1> 
 
 
