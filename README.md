@@ -29,6 +29,40 @@ The first two years of a dog’s life count as 21 human years. Each following ye
 
 
 
+
+<h1 align = 'center'> Space Travel </h1> 
+
+
+
+#### Project Goals
+
+Little Mac is an interplanetary space boxer, who is trying to win championship belts for various weight categories on other planets within the solar system.
+
+Here is a ``space.cpp`` program that helps him keep track of his target weight by:
+
+- It will ask him what his earth weight is.
+- Ask him to enter a number for the planet he wants to fight on.
+- It will then compute his weight on the destination planet.
+
+| No. 	| Planets 	| Relative Gravity 	|
+|:---:	|:-------:	|:----------------:	|
+|  1  	| Mercury 	|       0.38       	|
+|  2  	|  Venus  	|       0.91       	|
+|  3  	|   Mars  	|       0.38       	|
+|  4  	| Jupiter 	|       2.34       	|
+|  5  	|  Saturn 	|       1.06       	|
+|  6  	|  Uranus 	|       0.92       	|
+|  7  	| Neptune 	|       1.19       	|
+
+
+
+👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | cpp" width="66px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>](https://github.com/Emon-ProCoder7/Cpp/blob/main/space.cpp)
+
+<br><br>
+
+
+
+
 <h1 align = 'center'> Currency Conversion </h1> 
 
 <p align=center> <a href="#"><img width=330px src = "https://content.codecademy.com/courses/learn-cpp/variables/piggy-bank.gif"/> </a> </p>
