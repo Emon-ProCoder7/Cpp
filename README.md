@@ -29,6 +29,35 @@ The first two years of a dog’s life count as 21 human years. Each following ye
 
 
 
+<h1 align = 'center'> Currency Conversion </h1> 
+
+<p align=center> <a href="#"><img width=330px src = "https://content.codecademy.com/courses/learn-cpp/variables/piggy-bank.gif"/> </a> </p>
+
+#### Project Goals
+
+A traveller just returned from a trip from **South America**. The countries he visited were **Colombia, Brazil**, and **Peru**. He arrived back in the country with some foreign currencies from these three countries.
+
+
+- Here is a C++ program called ``currency.cpp`` that prompts the user for the amount of each foreign currency. The prompts should look like:
+
+```
+ Enter number of Colombian Pesos:
+ Enter number of Brazilian Reais:
+ Enter number of Peruvian Soles:
+```
+ 
+- The program then converts the amount entered by the user and display the total amount of **USD**. The final output should look like:
+
+``US Dollars = $______``
+
+👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | cpp" width="66px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>](https://github.com/Emon-ProCoder7/Cpp/blob/main/currency.cpp)
+
+<br><br>
+
+
+
+
+
 
 
 <h1 align = 'center'> Quadratic Formula </h1> 
