@@ -10,7 +10,7 @@
 
 <h1 align = 'center'> Dog Years </h1> 
 
-<p align=center><img width=330px src = "https://content.codecademy.com/courses/learn-cpp/variables/dog.gif"/> </p>
+<p align=center> <a href="#"><img width=330px src = "https://content.codecademy.com/courses/learn-cpp/variables/dog.gif"/> </a> </p>
 
 #### Project Goals
 
@@ -19,7 +19,7 @@ Dogs mature at a faster rate than human beings. Every dog owner might’ve heard
 
 The first two years of a dog’s life count as 21 human years. Each following year counts as 4 human years. So a one-year-old dog is 10.5 years old in human years, and a two-year-old dog is 21 years old in human years.
 
-I have written a C++ program called ``dog_years.cpp`` that **take dogs age data from user** and calculate the age, in human years, of any dog older than **TWO=2**.
+- I have written a C++ program called ``dog_years.cpp`` that **take dogs age data from user** and calculate the age, in human years, of any dog older than **TWO=2**.
 
 👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | cpp" width="66px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>](https://github.com/Emon-ProCoder7/Cpp/blob/main/dog_years.cpp)
 
@@ -31,19 +31,23 @@ I have written a C++ program called ``dog_years.cpp`` that **take dogs age data 
 
 
 
-<h1 align = 'center'> OOP Basic Calculator </h1> 
+<h1 align = 'center'> Quadratic Formula </h1> 
+
+<p align=center> <a href="#"><img width=330px src = "https://content.codecademy.com/courses/learn-cpp/variables/graph.gif"/> </a> </p>
+
 
 #### Project Goals
-In this project, I've used classes, methods, and objects to create a simple arithmetic calculator. The calculator will be able to:
 
-- Add two integers
-- Subtract two integers
-- Multiply two integers
-- Divide two integers
-- Apply the modulo operator on two integers
+In algebra, a quadratic equation is an equation having the form:
+
+The corresponding x values are the x-intercepts of the graph, while a, b, and c are constants.
+
+- Here I have written a C++ program called ``quadratic.cpp`` that solves the quadratic equation for the x‘s:
 
 
-👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="36px" src="https://raw.githubusercontent.com/Emon-ProCoder7/flask_framework/master/java.png"/>](https://github.com/Emon-ProCoder7/Java/blob/main/Calculator.java)
+👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | cpp" width="66px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>](https://github.com/Emon-ProCoder7/Cpp/blob/main/quadratic.cpp)
+
+<br><br>
 
 <br><br>
 
