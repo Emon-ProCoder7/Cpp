@@ -40,7 +40,12 @@ The first two years of a dog’s life count as 21 human years. Each following ye
 
 In algebra, a quadratic equation is an equation having the form:
 
+
+#####     *ax^2 + bx + c = 0*
+
 The corresponding x values are the x-intercepts of the graph, while a, b, and c are constants.
+
+<a href=#><img src=https://www.assignmentpoint.com/wp-content/uploads/2017/12/Quadratic-Equation-1-2.jpg /></a>
 
 - Here I have written a C++ program called ``quadratic.cpp`` that solves the quadratic equation for the x‘s:
 
