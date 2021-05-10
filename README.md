@@ -35,6 +35,55 @@ There are 3 criteria that have been taken into account to identify a leap year:
 
 
 
+<h1 align = 'center'> Magic 8-Ball </h1> 
+
+<p align=center> <a href="#"><img width=330px src = "https://content.codecademy.com/courses/learn-cpp/conditionals-and-logic/magic8ball.gif"/> </a> </p>
+
+#### Project Goals
+
+The [Magic 8-Ball](https://en.wikipedia.org/wiki/Magic_8-Ball) is a super popular toy used for fortune-telling or seeking advice, developed in the 1950s!
+
+Here I have written a ``magic8.cpp`` program that will output a random fortune each time it executes. The answers inside a standard Magic 8-Ball are:
+
+- It is certain.
+- It is decidedly so.
+- Without a doubt.
+- Yes - definitely.
+- You may rely on it.
+- As I see it, yes.
+- Most likely.
+- Outlook good.
+- Yes.
+- Signs point to yes.
+- Reply hazy, try again.
+- Ask again later.
+- Better not tell you now.
+- Cannot predict now.
+- Concentrate and ask again.
+- Don't count on it.
+- My reply is no.
+- My sources say no.
+- Outlook not so good.
+- Very doubtful.
+
+For example:
+```
+MAGIC 8-BALL:
+ 
+It is decidedly so.
+```
+Or:
+```
+MAGIC 8-BALL:
+ 
+Very doubtful.
+```
+
+👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | cpp" width="66px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>](https://github.com/Emon-ProCoder7/Cpp/blob/main/magic8.cpp)
+
+<br><br>
+
+
 
 
 
