@@ -232,6 +232,58 @@ Here is a ``space.cpp`` program that helps him keep track of his target weight b
 
 
 
+
+
+
+
+<h1 align = 'center'> Fizz Buzz </h1> 
+
+<p align=center> <a href="#"><img width=330px src = "https://content.codecademy.com/courses/learn-cpp/loops/fizzbuzz.gif"/> </a> </p>
+
+#### Project Goals
+
+Fizz Buzz is a classic developer interview question that is asked or referred to so often for so long, it is almost a cliché! It is designed to weed out 99.5% programming job candidates who cannot creatively use their coding knowledge to solve simple problems.
+
+- Here I have written a `fizzbuzz.cpp` program that outputs numbers from 1 to 100. 
+- But for multiples of 3, print Fizz instead of the number 
+- For the multiples of 5, print Buzz. 
+- For numbers which are multiples of both 3 and 5 print, FizzBuzz.
+
+```
+1
+2
+Fizz
+4
+Buzz
+Fizz
+7
+8
+Fizz
+Buzz
+11
+Fizz
+```
+As the inventor of this challenge, *Imran Ghory*, states:
+
+>"After a fair bit of trial and error I’ve come to discover that people who struggle to code<br> 
+>don’t just struggle on big problems, or even smallish problems. They struggle with tiny problems. 
+>So I set out to develop questions that can identify this kind of developer and came up with a 
+>class of questions I call “FizzBuzz Questions” named after a game children often play in schools in the UK.”
+
+👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | cpp" width="66px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>](https://github.com/Emon-ProCoder7/Cpp/blob/main/fizzbuzz.cpp)
+
+<br><br>
+
+
+
+
+
+
+
+
+
+
+
 <h1 align = 'center'> Currency Conversion </h1> 
 
 <p align=center> <a href="#"><img width=330px src = "https://content.codecademy.com/courses/learn-cpp/variables/piggy-bank.gif"/> </a> </p>
