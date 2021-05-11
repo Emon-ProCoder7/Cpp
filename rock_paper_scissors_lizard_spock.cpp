@@ -28,58 +28,70 @@ int main(){
 
 
   if (user == 5 && computer == 2){
+    std::cout << "Computer Chooses: Paper \n";
     std::cout << "Yaaay, You Win!!!🥰😎🥰";
 
 
 
   } else if (user == 2 && computer == 1){
+    std::cout << "Computer Chooses: Rock \n";
     std::cout << "Yaaay, You Win!!!🥰😎🥰";
 
 
 
   }else if (user == 1 && computer == 4){
+    std::cout << "Computer Chooses: Lizard \n";
     std::cout << "Yaaay, You Win!!!🥰😎🥰";
 
 
 
   }else if (user == 4 && computer == 5){
+    std::cout << "Computer Chooses: Spock \n";
     std::cout << "Yaaay, You Win!!!🥰😎🥰";
 
 
 
   }else if (user == 5 && computer == 3){
+    std::cout << "Computer Chooses: Scissors \n";
     std::cout << "Yaaay, You Win!!!🥰😎🥰";
 
 
 
   }else if (user == 3 && computer == 4){
+    std::cout << "Computer Chooses: Lizard \n";
     std::cout << "Yaaay, You Win!!!🥰😎🥰";
 
 
 
   }else if (user == 4 && computer == 2){
+    std::cout << "Computer Chooses: Paper \n";
     std::cout << "Yaaay, You Win!!!🥰😎🥰";
 
 
 
   }else if (user == 2 && computer == 5){
+    std::cout << "Computer Chooses: Spock \n";
     std::cout << "Yaaay, You Win!!!🥰😎🥰";
 
 
 
   }else if (user == 5 && computer == 1){
+    std::cout << "Computer Chooses: Rock \n";
     std::cout << "Yaaay, You Win!!!🥰😎🥰";
 
 
 
   }else if (user == 1 && computer == 3){
+    std::cout << "Computer Chooses: Scissors \n";
     std::cout << "Yaaay, You Win!!!🥰😎🥰";
 
 
 
   } else if (user == computer){
+      std::cout << "Computer Chooses: the same \n";
       std::cout << "It's a tie!🙄"; 
   } else {
+    std::cout << "Computer Chooses: " << computer << "\n";
     std::cout << "Sorry. Computer Wins!!😥";
   }
 
