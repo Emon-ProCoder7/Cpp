@@ -98,6 +98,33 @@ Here I have written a ``sortinghat.cpp`` program that asks the user some questio
 
 
 
+
+
+<h1 align = 'center'> Whale Talk Translator </h1> 
+
+
+
+#### Project Goals
+
+- Takes a phrase like **"turpentine and turtles"** and translate it into its “whale talk” equivalent, **"uueeieeauuee".**
+
+There are a few simple rules I maintained for translating text to whale language:
+
+>There are no consonants. Only vowels excluding the letter y.
+>The u‘s and e‘s are extra long, so we must double them.
+>Once converting text to the whale language is done, the result is sung slowly, as is custom in the ocean.
+
+Here I have written a `whale.cpp` program that accomplishes this translation.
+
+👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | cpp" width="66px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>](https://github.com/Emon-ProCoder7/Cpp/blob/main/whale.cpp)
+
+<br><br>
+
+
+
+
+
+
 <h1 align = 'center'> Leap Year Calculator </h1> 
 
 
