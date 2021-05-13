@@ -110,9 +110,9 @@ Here I have written a ``sortinghat.cpp`` program that asks the user some questio
 
 There are a few simple rules I maintained for translating text to whale language:
 
->There are no consonants. Only vowels excluding the letter y.
->The u‘s and e‘s are extra long, so we must double them.
->Once converting text to the whale language is done, the result is sung slowly, as is custom in the ocean.
+>There are no consonants. Only vowels excluding the letter y. <br>
+>The u‘s and e‘s are extra long, so they are doubled. <br>
+>Once converting text to the whale language is done, the result is sung slowly, as is custom in the ocean. <br>
 
 Here I have written a `whale.cpp` program that accomplishes this translation.
 
