@@ -17,7 +17,7 @@
 
 #### Project Goals
 
-We have played Rock, Paper, Scissors, but have you played [Rock, Paper, Scissors, Lizard, Spock](https://www.youtube.com/watch?v=iSHPVCBsnLw)? This is the infamous game brought to popularity with the TV show *The Big Bang Theory*.
+We have played Rock, Paper, Scissors, but have you played [Rock, Paper, Scissors, Lizard, Spock](https://www.youtube.com/watch?v=iSHPVCBsnLw)!!! This is the infamous game brought to popularity with the TV show *The Big Bang Theory*.
 
 
 Here I have written a `rock_paper_scissors_lizard_spock.cpp` program that:
