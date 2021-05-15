@@ -393,6 +393,44 @@ The corresponding x values are the x-intercepts of the graph, while a, b, and c 
 
 <br><br>
 
+
+
+
+
+
+
+<h1 align = 'center'> The Object of Affection (OOP) </h1> 
+
+<p align=center> <a href="#"><img width=330px src = "https://content.codecademy.com/courses/learn-cpp/classes-and-objects/ooya.gif"/> </a> </p>
+
+
+#### Project Goals
+
+A new match-making service: **The Object of Your Affection** or **OOYA** for short, I have built a pretty well-organized system of dating profiles.
+
+
+- The Profile stores the following information:
+
+```
+User’s name
+User’s age
+User’s city
+User’s country
+User’s pronouns
+User’s hobbies
+```
+
+And this is how users should be able to interact with their own profiles:
+
+- Create a new profile with some information
+- Add hobbies
+- View profile
+
+
+👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | cpp" width="66px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>](https://github.com/Emon-ProCoder7/Cpp/tree/main/OOP)
+
+<br><br>
+
 <br><br>
 
 
