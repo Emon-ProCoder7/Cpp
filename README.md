@@ -60,6 +60,32 @@ Lets get acquainted with the game logic:
 
 
 
+<h1 align = 'center'> UFO </h1> 
+
+<p align=center> <a href="#"><img width=330px src = "https://content.codecademy.com/courses/learn-cpp/functions/UFO.gif"/> </a> </p>
+
+#### Project Goals
+
+- It’s game time! And by that here is a project where I've built a game: UFO.
+
+
+>The premise: <br> <br>
+>
+>Invaders from outer space have arrived and are abducting humans using tractor beams. Players must crack the codeword to stop the abduction! <br>
+>
+>Ok, it’s quite a bit like that classic game, “Hangman”, but with a better premise. Plus, building this command-line game was part of a Software Engineer Internship Backend >Programming Challenge!
+
+
+👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | cpp" width="66px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>](https://github.com/Emon-ProCoder7/Cpp/tree/main/UFO)
+
+<br><br>
+
+
+
+
+
+
+
 
 
 <h1 align = 'center'> Harry Potter Sorting Hat Quiz </h1> 
