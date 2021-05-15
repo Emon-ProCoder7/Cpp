@@ -395,7 +395,7 @@ The corresponding x values are the x-intercepts of the graph, while a, b, and c 
 
 
 
-
+********
 
 
 
